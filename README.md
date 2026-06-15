@@ -116,16 +116,16 @@ Copy a row below and replace the values. Use any emoji that fits.
 
 <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username in ALL links below -->
 
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=a78bfa&icon_color=06b6d4&text_color=f1f5f9)
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DigitalDetectiv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=a78bfa&icon_color=06b6d4&text_color=f1f5f9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=a78bfa&text_color=f1f5f9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalDetectiv&layout=compact&theme=tokyonight&hide_border=true&bg_color=070b14&title_color=a78bfa&text_color=f1f5f9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=070b14&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa)
+![GitHub Streak](https://streak-stats.demolab.com?user=DigitalDetectiv&theme=tokyonight&hide_border=true&background=070b14&ring=7c3aed&fire=06b6d4&currStreakLabel=a78bfa)
 
 <!-- Snake contribution graph — needs a GitHub Action to generate. 
      Follow setup at: https://github.com/Platane/snk
      Once set up, replace YOUR_GITHUB_USERNAME below: -->
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/DigitalDetectiv/DigitalDetectiv/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
