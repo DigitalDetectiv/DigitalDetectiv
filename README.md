@@ -1,7 +1,6 @@
-```markdown
+
 <div align="center">
 
-```text
  _____                 __                                  __                           __
 /      \               |  \                                |  \                         |  \
 |  $$$$$$\ _______    ______  | $$____    ______          _______ | $$____    ______        __  \$$
@@ -15,7 +14,6 @@
                                                                                             \$$    $$
                                                                                              \$$$$$$
 
-```
 
 ### `>_ Aspiring Software Engineer | Full Stack | AI/ML | Cybersecurity`
 
@@ -64,7 +62,6 @@ Computer Science student focused on software development, machine learning, and 
 ![mitmproxy](https://img.shields.io/badge/mitmproxy-7c3aed?style=flat-square)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 **Databases & Deployment**
@@ -107,4 +104,4 @@ Computer Science student focused on software development, machine learning, and 
 *Always learning, always building.*
 
 </div>
-```
+
