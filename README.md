@@ -1,6 +1,7 @@
 
 <div align="center">
 
+```
  _____                 __                                  __                           __
 /      \               |  \                                |  \                         |  \
 |  $$$$$$\ _______    ______  | $$____    ______          _______ | $$____    ______        __  \$$
@@ -14,7 +15,7 @@
                                                                                             \$$    $$
                                                                                              \$$$$$$
 
-
+```
 ### `>_ Aspiring Software Engineer | Full Stack | AI/ML | Cybersecurity`
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-7c3aed?style=for-the-badge)](https://sneha-shaji.github.io)
