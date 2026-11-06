@@ -73,17 +73,24 @@ Computer Science student focused on software development, machine learning, and 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 ---
-
 ### 🚀 Featured Projects
 
-| Project | Repository |
-|---|---|
-| 🔒 **AI Security Gateway & DLP System** | [View Project](https://github.com/DigitalDetectiv/AI-Security-Middleware-DLP-Gateway) |
-| 🧠 **Behavioral Biometrics Continuous Authentication** | [View Project](https://github.com/DigitalDetectiv/Behavioral-Biometrics-Based-Continuous-Authentication-System) |
-| 🌐 **LifeLoop — Full-Stack Productivity Platform** | [View Project](https://github.com/DigitalDetectiv/LifeLoop-Smart-Productivity-Utility-Management-Platform) |
+<p align="center">
+  <i>Building practical solutions across AI, Cybersecurity, and Software Engineering.</i>
+</p>
 
-[**Explore all my projects →**](https://sneha-shaji.github.io)
+| Project | Description | Repository |
+|:---|:---|:---:|
+| 🛡️ **TriageForge** | Agentic DevSecOps platform for automated vulnerability detection, security triage, risk analysis, and remediation reporting. | [View Repo](https://github.com/DigitalDetectiv/TriageForge-Agentic-Vulnerability-Triage-Platform)|
+| 🔒 **AI Security Gateway & DLP System** | AI security middleware with sensitive data detection, redaction, and secure LLM communication. | [View Project](https://github.com/DigitalDetectiv/AI-Security-Middleware-DLP-Gateway) |
+| 🧠 **Behavioral Biometrics Continuous Authentication** | Continuous user authentication using mouse dynamics and behavioural biometric features. | [View Project](https://github.com/DigitalDetectiv/Behavioral-Biometrics-Based-Continuous-Authentication-System) |
+| 🌐 **LifeLoop — Full-Stack Productivity Platform** | Full-stack productivity and utility management platform. | [View Project](https://github.com/DigitalDetectiv/LifeLoop-Smart-Productivity-Utility-Management-Platform) |
 
+<p align="center">
+  <a href="https://sneha-shaji.github.io">
+    <b>Explore My Portfolio →</b>
+  </a>
+</p>
 ---
 
 ### 📊 GitHub Stats
